@@ -1,0 +1,25 @@
+/* Child Selector */
+
+/* p > a {
+  color: green;
+} */
+
+/* Descendant Selector */
+
+div a {
+  color: red;
+}
+
+/* Grouping Selectors */
+
+p,
+h2 {
+  color: rgb(0, 255, 162);
+}
+
+/* Attribute Selectors */
+
+input[type="text"] {
+  color: rgb(26, 23, 202);
+  background-color: rgb(135, 222, 135);
+}
