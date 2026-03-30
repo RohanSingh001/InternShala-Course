@@ -7,7 +7,7 @@
 /* Descendant Selector */
 
 div a {
-  color: red;
+  color: rgb(255, 0, 0);
 }
 
 /* Grouping Selectors */
