@@ -1,0 +1,55 @@
+p {
+  border: 2px solid black;
+  background-color: lightskyblue;
+}
+
+/* Padding */
+
+#padding {
+  padding: 20px;
+}
+
+/* Margin */
+
+#margin {
+  margin: 60px;
+}
+
+span {
+  border: 2px solid black;
+  background-color: lightcoral;
+}
+
+/* Height and Width */
+#haw {
+  display: flex; /* By default display is inline height and width we set did not work that's why we use flex */
+  align-items: center;
+  justify-content: center;
+  height: 200px; /* Height = border-top + padding-top + defined height + padding-bottom + border-bottom */
+  width: 200px; /* Width = border-left + padding-left + defined width + padding-right + border-right */
+}
+
+.con {
+  display: flex;
+}
+
+.box {
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  background-color: lightskyblue;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Box Sizing */
+#border {
+  box-sizing: border-box;
+}
+
+#content {
+  box-sizing: content-box; /* content box is default */
+}
