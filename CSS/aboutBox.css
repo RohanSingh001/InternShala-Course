@@ -51,5 +51,5 @@ span {
 }
 
 #content {
-  box-sizing: content-box; /* content box is default */
+  box-sizing: content-box; /* content box is default When we applying height and width it only applies to the content area not the border or padding */
 }
