@@ -1,0 +1,11 @@
+div {
+  border: 2px solid black;
+}
+a {
+  border: 2px solid rgb(186, 203, 31);
+  width: 200px; /* when display is inline width and height are ignored it did not work */
+  height: 200px;
+  margin: 20px;
+  padding: 20px;
+  /* display: inline-block; when we set display to inline-block then width and height work and element consume block or inline element properties */
+}
