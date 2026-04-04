@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  border: 1px solid red;
+  height: 150px;
+  font-size: 0px;
+}
+
+.col1 {
+  border: 2px solid black;
+  width: 33.33%;
+  height: 100%;
+  display: inline-block;
+}
+
+.col2 {
+  border: 2px solid black;
+  width: 50%;
+  height: 100%;
+  display: inline-block;
+}
+
+.row2 {
+  border: 2px solid blue;
+  height: 50%;
+}
