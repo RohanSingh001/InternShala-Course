@@ -1,0 +1,11 @@
+.container {
+  border: dotted 2px rgb(96, 139, 168);
+  width: 500px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.container > div {
+  border: solid 2px black;
+  border-radius: 5px;
+}
