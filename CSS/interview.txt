@@ -1,0 +1,15 @@
+HTML
+
+comment in html we use less than symbol,  exclamation mark,  hyphen and to close use hyphen and greater than sign
+
+In short: The <head> tag is the control center of your webpage, holding metadata, styles, scripts, and SEO information that shapes how your site is displayed and understood.
+
+ in ol list items are automatically numbered use ol list when the order of items is important
+
+ in ul list items are not numbered use ul list when the order of items is not important
+
+ In HTML, an attribute is extra information added to an element’s opening tag that modifies or provides details about that element. Attributes usually come in name/value pairs
+
+CSS
+
+Forward slash for comments asterisk
